@@ -3,7 +3,7 @@
 Hydrocheck merupakan sebuah program sederhana yang dibuat dengan bahasa python untuk mengetahui status hidrasi seseorang melalui warna urin. Pada Hydrocheck ini memiliki beberapa fitur diantaranya cek keseimbangan cairan, cek riwayat pengecekan, dan pengingat air minum. Tujuan dari fitur-fitur tersebut guna untuk menunjang kesehatan pengguna dan juga sebagai pendeteksi dini untuk mendeteksi apakah ada komplikasi pada kesehatan pengguna melalui warna urin.
 
 ## Organized by :
-- Salma Aufa A. as a PM(Project Manager)
+- Salma Aufa A. as a PM (Project Manager)
 - M. Haikal Hidayat as a Programmer
 - Fadli Sutaji Muidita as a Programmer
 - Fatwa Aulia Rachma as a SD(Software Designer)
